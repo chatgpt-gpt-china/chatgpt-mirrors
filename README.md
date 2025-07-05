@@ -1,12 +1,12 @@
-# 国内 ChatGPT-4 中文版镜像网站整理（2025/07/02）【镜像网站合集】
+# 国内 ChatGPT-4 中文版镜像网站整理（2025/07/07）【镜像网站合集】
 
-为了方便大家使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://talk.lanjing.pro)。这些网站各有优缺点，您可以根据自己的需要进行选择。
+为了方便大家使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://gpt.lanjing.pro)。这些网站各有优缺点，您可以根据自己的需要进行选择。
 
 在国内无需翻墙，即可直接在线使用 [**ChatGPT镜像网站**](https://xsimplechat.com)。
 
 ## 什么是 ChatGPT 镜像网站？
 
-[**ChatGPT 镜像网站**](https://talk.lanjing.pro)（ChatGPT Mirror）是指将原始官网的内容复制并放置在另一服务器上的网站服务。因此，用户在国内无需翻墙也可以使用。
+[**ChatGPT 镜像网站**](https://gpt.lanjing.pro)（ChatGPT Mirror）是指将原始官网的内容复制并放置在另一服务器上的网站服务。因此，用户在国内无需翻墙也可以使用。
 
 与官网相比，**ChatGPT 镜像网站**更适合国内用户：
 
@@ -18,7 +18,7 @@
 
 ## 国内精选的 ChatGPT 镜像网站推荐
 
-- [https://talk.lanjing.pro/](https://talk.lanjing.pro/) - 于2023年3月上线，稳定运行，支持 GPT-4、GPT-3.5，还支持 MJ 绘画。
+- [https://gpt.lanjing.pro/](https://gpt.lanjing.pro/) - 于2023年3月上线，稳定运行，支持 GPT-4、GPT-3.5，还支持 MJ 绘画。
 - [https://xsimplechat.com/](https://xsimplechat.com/) - 运营近2年，支持 GPT-4、GPT-3.5，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图等。
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - 运营超过1年，支持 GPT-4，支持 AI 绘画（Midjourney 和 DALL·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT-4，使用简单便捷。
@@ -41,7 +41,7 @@
 
 ## 国外其它大模型汇总
 
-- [https://talk.truthgpt.one/](https://talk.truthgpt.one/) - 由马斯克出品，无需翻墙，无需注册账号，直接使用。
+- [https://gpt.truthgpt.one/](https://gpt.truthgpt.one/) - 由马斯克出品，无需翻墙，无需注册账号，直接使用。
 
 ## AI 工具集导航网站
 
